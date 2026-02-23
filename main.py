@@ -4,7 +4,7 @@ buku = {
     "Struktur Data": 1
 }
 
-dipinjam = []  # List untuk menyimpan buku yang dipinjam
+dipinjam = [] 
 
 while True:
     print("\n=== SISTEM PERPUSTAKAAN ===")
